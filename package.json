@@ -1,0 +1,22 @@
+{
+  "name": "v36",
+  "version": "0.1.0",
+  "description": "Bildungsstandards Deutsch Sek II 2012",
+  "scripts": {
+    "run_id": "addidcsv csv",
+    "run_ttl": "csv2ttl csv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqb-vocabs/v36.git"
+  },
+  "author": "IQB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iqb-vocabs/v36/issues"
+  },
+  "homepage": "https://github.com/iqb-vocabs/v36#readme",
+  "devDependencies": {
+    "@iqb/csv2ttl": "^0.8.2"
+  }
+}

@@ -1,0 +1,49 @@
+{
+    "id": "2012DeSek2",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Bildungsstandards Deutsch für die Allgemeine Hochschulreife"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v36",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "k1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Kompetenzbereiche"
+          }
+        ],
+        "filenameSource": "k1_Kompetenzbereiche.csv",
+        "filenameTarget": "k1_Kompetenzbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "u1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Bildungsstandards"
+          }
+        ],
+        "filenameSource": "u1_Bildungsstandards.csv",
+        "filenameTarget": "u1_Bildungsstandards.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  }
