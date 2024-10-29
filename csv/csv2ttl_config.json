@@ -24,24 +24,58 @@
         "description": [
           {
             "lang": "de",
-            "value": ""
+            "value": "\"\"Die Bildungsstandards im Fach Deutsch für die Allgemeine Hochschulreife sind in fünf Kompetenzbereiche gegliedert, die in komplexer Weise miteinander verzahnt sind. In den Kompetenzbereichen „Sprechen und Zuhören“, „Schreiben“ und „Lesen“ werden dabei sowohl produktive als auch rezeptive Kompetenzen ausgewiesen. Diese prozessbezogenen Kompetenzen sind fachbezogen wie überfachlich bedeutsam. Sie knüpfen an die in den Bildungsstandards für den Mittleren Schulabschluss festgelegten Kompetenzen an, werden aber im Sinne der propädeutischen Zielsetzung der gymnasialen Oberstufe qualitativ weiterentwickelt. Die Kompetenzbereiche „Sich mit Texten und Medien auseinandersetzen“ und „Sprache und Sprachgebrauch reflektieren“ weisen die fachspezifischen Domänen aus, in denen die prozessbezogenen Kompetenzen verbindlich konkretisiert werden. Schülerinnen und Schüler sichern und erweitern die in der Sekundarstufe I erworbenen Kompetenzen in Bezug auf den Grad der Selbstständigkeit und Reflektiertheit, die Komplexität und den Voraussetzungsreichtum der\nproduktiven und rezeptiven sprachlichen Handlungen. So werden die Grundlagen für fachliches und überfachliches\nHandeln mit Blick auf Anforderungen von Wissenschaft und beruflicher Bildung geschaffen.\"\""
           }
         ]
       },
       {
-        "id": "u1",
+        "id": "n1",
         "title": [
           {
             "lang": "de",
             "value": "Bildungsstandards"
           }
         ],
-        "filenameSource": "u1_Bildungsstandards.csv",
-        "filenameTarget": "u1_Bildungsstandards.ttl",
+        "filenameSource": "n1_Bildungsstandards.csv",
+        "filenameTarget": "n1_Bildungsstandards.ttl",
         "description": [
           {
             "lang": "de",
-            "value": ""
+            "value": "\"\"Die Kompetenzbereiche „Sprechen und Zuhören“, „Schreiben“ und „Lesen“ (vgl. Abschnitte 2.1 bis 2.3) formulieren prozessbezogene Bildungsstandards. Sie sind für alle Schülerinnen und Schüler im Sinne der propädeutischen Zielsetzung der gymnasialen Oberstufe – gleichsam als Handwerkszeug – unverzichtbar. Die Nutzung dieser Kompetenzen\nermöglicht allen Schülerinnen und Schülern eine angemessene mündliche und schriftliche Verständigung sowie eine differenzierte Anwendung von Texterschließungsverfahren und Arbeitstechniken.\n\n Unterschiedliche Anforderungen auf grundlegendem bzw. erhöhtem Niveau ergeben sich für diese Kompetenzbereiche in der Verschränkung mit den beiden domänenspezifischen Kompetenzbereichen „Sich mit Texten und Medien auseinandersetzen“ und „Sprache und Sprachgebrauch reflektieren“ (vgl. Abschnitte 2.4 und 2.5). Beide Kompetenzbereiche basieren auf den fachspezifischen Domänen, in denen die prozessbezogenen Kompetenzen verbindlich konkretisiert und hinsichtlich der beiden unterschiedlichen Anforderungsniveaus für Kurse auf grundlegendem bzw. erhöhtem Niveau deutlich differenziert werden. In beiden Kompetenzbereichen werden durchgängig zusätzlich zu den Kompetenzerwartungen für das grundlegende Anforderungsniveau solche für das erhöhte Anforderungsniveau ausgewiesen,\nsodass durch diese qualitative und quantitative Steigerung eine thematische Erweiterung und Differenzierung sowie eine theoretische Vertiefung gesichert ist.\n\nDie Niveaustufung erfolgt zudem durch die Auswahl des Gegenstands und die Aufgabenstellung. Je nach Voraussetzungsreichtum, sprachlicher Komplexität und Informationsdichte der Texte variiert der Grad an Kenntnissen, Selbstständigkeit und Reflexionsvermögen, den Schülerinnen und Schüler auf grundlegendem oder erhöhtem Anforderungsniveau benötigen. Aufgaben auf erhöhtem Niveau fordern von den Schülerinnen und Schülern ein größeres Maß an Eigenständigkeit und Reflexion.\n\nDer Kompetenzerwerb soll im Sinne kumulativen Lernens vernetzt erfolgen. Die Reihenfolge der Bildungsstandards ist daher nicht als Abbildung einer möglichen Chronologie des Kompetenzaufbaus aufzufassen.\"\""
+          }
+        ]
+      },
+      {
+        "id": "o1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Bildungsstandards"
+          }
+        ],
+        "filenameSource": "o1_Anforderungsbereiche.csv",
+        "filenameTarget": "o1_Anforderungsbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "Die Prüfungsaufgabe ist so zu stellen, dass sie Leistungen in den folgenden drei Anforderungsbereichen erfordert:"
+          }
+        ]
+      },
+      {
+        "id": "p1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Kompetenzbereiche"
+          }
+        ],
+        "filenameSource": "p1_Pruefungaufgabe.csv",
+        "filenameTarget": "p1_Pruefungaufgabe.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "Unter Berücksichtigung der „Vereinbarung über die Abiturprüfung der gymnasialen Oberstufe in der Sekundarstufe II“ i. d. g. F. und auf der Grundlage der in den Bildungsstandards festgelegten Kompetenzen, über die die Schülerinnen und Schüler am Ende der gymnasialen Oberstufe verfügen sollen, werden die nachfolgenden Regelungen für die Abiturprüfung festgelegt. Ausgehend von den verbindlichen Bereichen, in denen in den jeweiligen Fächern in der Abiturprüfung Kenntnisse, Fähigkeiten und Fertigkeiten nachzuweisen sind, wird im Folgenden insbesondere benannt, welche Arten von Aufgaben in der Abiturprüfung gestellt werden können, in welcher Weise die erwarteten Schülerleistungen zu beschreiben und nach welchen Kriterien die erbrachten Abiturprüfungsleistungen zu bewerten sind."
           }
         ]
       }
