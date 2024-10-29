@@ -229,7 +229,7 @@ n1:d3f
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Deutsch für die Allgemeine Hochschulreife - Kompetenzbereiche"@de;
+	dct:title "Bildungsstandards Deutsch für die Allgemeine Hochschulreife - Prüfungsaufgabe"@de;
 	dct:description "Unter Berücksichtigung der „Vereinbarung über die Abiturprüfung der gymnasialen Oberstufe in der Sekundarstufe II“ i. d. g. F. und auf der Grundlage der in den Bildungsstandards festgelegten Kompetenzen, über die die Schülerinnen und Schüler am Ende der gymnasialen Oberstufe verfügen sollen, werden die nachfolgenden Regelungen für die Abiturprüfung festgelegt. Ausgehend von den verbindlichen Bereichen, in denen in den jeweiligen Fächern in der Abiturprüfung Kenntnisse, Fähigkeiten und Fertigkeiten nachzuweisen sind, wird im Folgenden insbesondere benannt, welche Arten von Aufgaben in der Abiturprüfung gestellt werden können, in welcher Weise die erwarteten Schülerleistungen zu beschreiben und nach welchen Kriterien die erbrachten Abiturprüfungsleistungen zu bewerten sind."@de;
 	skos:hasTopConcept
 		n1:b6r,

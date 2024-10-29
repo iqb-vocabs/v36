@@ -50,7 +50,7 @@
         "title": [
           {
             "lang": "de",
-            "value": "Bildungsstandards"
+            "value": "Anforderungsbereiche"
           }
         ],
         "filenameSource": "o1_Anforderungsbereiche.csv",
@@ -67,7 +67,7 @@
         "title": [
           {
             "lang": "de",
-            "value": "Kompetenzbereiche"
+            "value": "Prüfungsaufgabe"
           }
         ],
         "filenameSource": "p1_Pruefungaufgabe.csv",

@@ -28,7 +28,7 @@ n1:b3t
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Deutsch für die Allgemeine Hochschulreife - Bildungsstandards"@de;
+	dct:title "Bildungsstandards Deutsch für die Allgemeine Hochschulreife - Anforderungsbereiche"@de;
 	dct:description "Die Prüfungsaufgabe ist so zu stellen, dass sie Leistungen in den folgenden drei Anforderungsbereichen erfordert:"@de;
 	skos:hasTopConcept
 		n1:c5p,
