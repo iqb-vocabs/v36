@@ -875,7 +875,7 @@ n1:z5p
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Deutsch für die Allgemeine Hochschulreife - Bildungsstandards"@de;
+	dct:title "Bildungsstandards Deutsch Sek II 2012 - Bildungsstandards"@de;
 	dct:description """Die Kompetenzbereiche „Sprechen und Zuhören“, „Schreiben“ und „Lesen“ (Textfassung: vgl. Abschnitte 2.1 bis 2.3) formulieren prozessbezogene Bildungsstandards. Sie sind für alle Schülerinnen und Schüler im Sinne der propädeutischen Zielsetzung der gymnasialen Oberstufe – gleichsam als Handwerkszeug – unverzichtbar. Die Nutzung dieser Kompetenzen
 ermöglicht allen Schülerinnen und Schülern eine angemessene mündliche und schriftliche Verständigung sowie eine differenzierte Anwendung von Texterschließungsverfahren und Arbeitstechniken.
 
