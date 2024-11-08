@@ -1,8 +1,8 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
 @prefix dc: <http://purl.org/dc/elements/1.1/>.
-@prefix n0: <https://w3id.org/iqb/v36/n1/>. 
-@prefix n1: <https://w3id.org/iqb/v36/n1/>. 
+@prefix n0: <https://w3id.org/iqb/v36/b1/>. 
+@prefix n1: <https://w3id.org/iqb/v36/b1/>. 
 
 n1:e5t
 	 a skos:Concept;

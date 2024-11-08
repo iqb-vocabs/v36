@@ -29,15 +29,15 @@
         ]
       },
       {
-        "id": "n1",
+        "id": "b1",
         "title": [
           {
             "lang": "de",
-            "value": "Bildungsstandards"
+            "value": "Bildungsstandards für die Kompetenzbereiche im Fach Deutsch"
           }
         ],
-        "filenameSource": "n1_Bildungsstandards.csv",
-        "filenameTarget": "n1_Bildungsstandards.ttl",
+        "filenameSource": "b1_Bildungsstandards.csv",
+        "filenameTarget": "b1_Bildungsstandards.ttl",
         "description": [
           {
             "lang": "de",
@@ -46,15 +46,15 @@
         ]
       },
       {
-        "id": "o1",
+        "id": "a1",
         "title": [
           {
             "lang": "de",
             "value": "Anforderungsbereiche"
           }
         ],
-        "filenameSource": "o1_Anforderungsbereiche.csv",
-        "filenameTarget": "o1_Anforderungsbereiche.ttl",
+        "filenameSource": "a1_Anforderungsbereiche.csv",
+        "filenameTarget": "a1_Anforderungsbereiche.ttl",
         "description": [
           {
             "lang": "de",
